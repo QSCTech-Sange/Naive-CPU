@@ -17,16 +17,5 @@ A MIPS CPU
 + 代码注释不会涉及太多原理性的知识点
 + 核心是实践
 
-### PC 寄存器
+### 按照 Chapter 里的模块顺序编写
 
-+ 第一个编写的模块
-
-+ 了解 PC 寄存器的用途，然后用 Verilog 实现
-+ 代码在 `pc_reg.v` 里
-
-### 指令存储器 ROM 
-
-+ 了解指令寄存器的用途
-+ 代码在 `rom.v` 中
-
-![1](https://cdn.jsdelivr.net/gh/QSCTech-Sange/picBed/1.png)
